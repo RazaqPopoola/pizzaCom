@@ -4,22 +4,20 @@
 Interactive website Report
 
 
-1.	Code lines 1 – 92 (JavaScript)
-Code lines 1 – 125 (html 5)
-Code lines 1 – 105 (css-3)
-The website is built with HTML5 and CSS3 and the form can accept customer order, and will not post until all the validation is tested and they are in other. There is only one form on the website and one page website because the website concentrates more on the JavaScript rather than the functionality of the website. I separate the css from the html for conveniences.
+1.	The website is built with HTML5 and CSS3 and the form can accept customer order, and will not post until all the validation is tested and they are in other. There is only one form on the website and one page website because the website concentrates more on the JavaScript rather than the functionality of the website. I separate the css from the html for conveniences.
 
-2.	Code 
-Phone number 623 – 675
-PPS Number	546 - 621
-Name 		446 - 483
-Credit Card	485 - 544	
+2.	Validation 
+ 
+Phone number 
+PPS Number
+Name 	
+Credit Card	
 
 The validation is based on PSS Number, credit card number, name validation, phone number, 
 
 
 3.	Code
-Validation 139
+Validation
 There is feedback when the right information are not inputted 
 
 4.	Code html 5 Address and email
