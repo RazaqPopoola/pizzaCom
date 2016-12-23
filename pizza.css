@@ -1,0 +1,158 @@
+
+	h1	
+	{
+		font: bold 20px Tahoma;
+	}
+	
+	h2
+	{
+		font: bold 14px Tahoma;
+	}
+	
+	header, section, footer, aside, nav article, hgroup
+	{
+
+		display: block;
+	}
+	
+	img
+	{
+		position:absolute;
+		left:870px;
+		top:500px;
+		visibility: hidden;
+		
+	 }	
+
+	div#sumPrice{
+		
+   	 	padding:10px;
+   	 	font-weight:bold;
+    	background-color:#ff0;
+	}
+
+	#cookieData{
+		
+		background-color: #999999;
+		width: 650px;
+
+	}
+	
+	body{
+		
+		text-align: center;
+		
+	}
+	
+	/*This  styled the website button*/
+	input[type=submit],  input[type=reset]{
+		
+		width: 130px;
+		background-color: #336666;
+		color: white;
+		padding: 14px 20px;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		margin-right: 12px;
+	}
+
+	input[type=submit], input[type=reset]:hover{
+		
+		background-color: #45a049;
+	}
+	
+	
+	/*This  styled the form radio and check-box */
+	input[type=radio],  input[type=checkbox]{
+		
+		background-color: #336666;
+		color: white;
+		padding: 14px 20px;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		margin-right: 12px;
+	}
+
+
+	/*This  styled the form text-area*/
+	textarea{
+		
+		width: 260px;
+		height: 100px;
+		border: 3px solid #cccccc;
+		padding: 5px;
+	}
+	
+	/*This  styled the form  text field*/
+	 input[type=text], input[type=tel], input[type=email], select{
+	 	
+		width: 275px;
+		padding: 12px 20px;
+		border: 3px solid #cccccc;
+		box-sizing: border-box;
+	}
+		
+	#main_wrapper{
+		
+		 border: 5px solid black;
+	 	 width: 950px;
+		 margin:  auto;
+		 text-align: left;
+	 }
+	 
+	#main_header{
+		
+		background-image:url('images/header.png');
+		background-repeat:no-repeat;
+		width: 950px;
+		height: 300px;
+		padding: 5px;
+		margin: 5px;
+	}
+
+	#the_menu{
+		
+		background: grey;
+		color: blue;
+		
+	}
+	
+	#the_menu li{
+		
+		display: inline-block;
+		list-style: none;
+		height: 30px;
+		padding: 5px;
+		margin: auto;
+		font: bold 14px Tahoma;
+	}	
+	
+	#main_content{
+		
+		float: left;
+		width: 650px;
+		margin: 25px;
+	}
+
+	#the_side{
+		
+		float: left;
+		width: 200px;
+		margin: 20px 0px;
+		padding: 25px;
+	
+	}
+
+	#the_footer{
+		
+		clear: both;
+		text-align: center;
+		padding: 20px;
+		border-top: 1px;
+
+	}
+
+
+
