@@ -443,7 +443,7 @@
 		custName=document.forms['pizzaForm']['customername'].value;
 
 
-		if(!isNaN(custName) || custName.length < 7)
+		if(!isNaN(custName) || custName.length < 2)
 		{
 			nameGood = false;
 		}
